@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://moversdenverco.com/sitemap.xml
